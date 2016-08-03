@@ -2,7 +2,10 @@
   float: right;
   width: 15%;
   background-color: pink;
-  line-height: 30px;
+  line-height: 20px;
+  padding: .5px;
+  margin: 2px;
+  border: 2px solid black;
 }
 img {
   float: left;
